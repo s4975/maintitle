@@ -1,0 +1,6 @@
+"SEQ" "ID" "DEPT" "QUOTA"
+"1" 1 301 "computer" 80
+"2" 2 302 "software" 80
+"3" 3 303 "economy" 40
+"4" 4 304 "business" 60
+"5" 5 305 "art" 60
